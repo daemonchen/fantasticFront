@@ -1,5 +1,5 @@
 <app>
-  <div id="view"></div>
+  <div id="view" class="container one-column"></div>
 
   <script>
   var self = this

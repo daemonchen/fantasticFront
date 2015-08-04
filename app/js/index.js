@@ -11,6 +11,10 @@ var home = require('../views/home.tag');
 var cart = require('../views/cart/cart.tag');
 var user = require('../views/user/user.tag');
 
+//布局
+var nHeader = require('../views/common/layout/n-header.tag');
+var nFooter = require('../views/common/layout/n-footer.tag');
+
 // 公共组件
 var bottomMenu = require('../views/common/bottom-menu.tag');
 var navigationTag = require('../views/common/navigation.tag');
